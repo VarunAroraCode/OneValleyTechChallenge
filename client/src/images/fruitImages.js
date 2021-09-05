@@ -2,6 +2,7 @@ const fruitImages = {
     Apple:"https://cdn.pixabay.com/photo/2016/01/05/13/58/apple-1122537_960_720.jpg",
     Apricot: "https://cdn.pixabay.com/photo/2017/07/21/22/11/apricots-2527193_960_720.jpg",
     Banana: "https://cdn.pixabay.com/photo/2015/02/27/17/58/bananas-652497_960_720.jpg",
+    Durian: "https://cdn.pixabay.com/photo/2018/08/10/12/54/tropical-fruit-3596787_960_720.jpg",
     Blueberry: "https://cdn.pixabay.com/photo/2015/03/26/09/40/blueberries-690072_960_720.jpg",
     Cherry: "https://cdn.pixabay.com/photo/2018/06/15/23/27/cherries-3477927_960_720.jpg",
     Guava: "https://cdn.pixabay.com/photo/2020/02/19/23/19/guava-4863477_960_720.jpg",
