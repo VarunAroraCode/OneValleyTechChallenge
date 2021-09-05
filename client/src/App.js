@@ -87,7 +87,6 @@ class App extends Component {
                       }
                     }
                     ></img>  
-                    
                   </div>
                 )
               })}

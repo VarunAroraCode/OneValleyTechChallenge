@@ -45,6 +45,15 @@
   margin-top: 20%;
   float: left
 }
+@media only screen and (max-width: 650px) {
+  .image{
+    height: 50px;
+    width: 50px;
+    margin : 6px;
+    transition: ease-in-out .2s;
+  }
+
+}
 
 .li {
   list-style-type: none;
