@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  background-color: grey;
+}
+.pageTitle {
+  color: rgb(190, 192, 192);
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+}
+.image{
+  height: 150px;
+  width: 150px;
+  margin : 10px;
+  transition: ease-in-out .2s;
+}
+
+
+.image:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.ModalImage{
+  height: 150px;
+  width: 150px;
+  margin : 15px;
+  margin-top: 20%;
+  float: left
+}
+
+.li {
+  list-style-type: none;
+  margin-left: 40%
+  
+}
+.ImageContainer{
+  height: 100%
+}
+
+.bolden{
+  font:1.3rem;
+  font-weight: bold;
+  text-decoration: underline 2px black;
+}
+
+.footer{
+  font-size: .5rem;
+  text-align: center;
+  justify-content: center;
+}
