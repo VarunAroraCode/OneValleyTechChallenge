@@ -22,7 +22,7 @@
     "server": "node server.js",
     "dev" : "node server.js & react-scripts start "
   },
-  "proxy": "http://localhost:5000",
+
   "eslintConfig": {
     "extends": [
       "react-app",
